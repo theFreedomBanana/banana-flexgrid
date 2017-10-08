@@ -1,4 +1,4 @@
-# Flexgrid
+# Banana Flexgrid
 Lightweight mobile first 12 columns grid made with flexbox
 - Columns apply to upper breakpoint if no other class comes for replace
 - Columns need to be direct child of container
@@ -6,3 +6,5 @@ Lightweight mobile first 12 columns grid made with flexbox
 - Grids can be nested as many levels deep as needed
 - .no-gutter class for cols withou spaces in between
 - bottom-align, vertical-center, and fill-empty-space classes
+
+*Be warn that flexbox are not fully supported by IE11*
